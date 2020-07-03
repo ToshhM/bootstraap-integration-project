@@ -1,0 +1,33 @@
+body{
+    overflow: hidden;"
+}
+header{
+    display: flex;
+    height: 75px;
+    width: auto;
+    background-color: grey;
+}
+header h2{
+    margin-top: 15px;
+}
+nav{
+    display: flex;
+
+}
+.nav_links ul {
+    display: inline-block;
+    padding: 0px 20px;
+    margin: 25px;
+  }
+.background{
+    width: auto;
+    height: 90vh;
+    background-color: indianred;
+    text-align: center;
+    background-image: url("beach.jpg");
+}
+.element{
+    height: 700px;
+    width: auto;
+    padding: 10%;
+}
